@@ -1,10 +1,7 @@
 #ifndef MY_MIOPEN_HPP
 #define MY_MIOPEN_HPP
 
-#include <hipblas.h>
 #include <miopen/miopen.h>
-//#include <gperftools/profiler.h>
-
 #include <dirent.h>
 #include <fstream>
 #include <iostream>
